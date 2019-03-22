@@ -9,6 +9,7 @@ namespace teste_git
             Console.WriteLine("Hello World!");
             
             Console.WriteLine("Bom dia");
+            Console.WriteLine("Como esta voce hoje?");
         }
     }
 }
